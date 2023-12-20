@@ -1,0 +1,10 @@
+0 0
+*: a_0 b_0 
++: a_0 b_0 
+-: a_0 b_0 
+=: vector_0 
+a: *_0 +_0 -_0 coma_0 dot_0 vector_0 
+b: *_0 +_0 -_0 coma_0 dot_0 vector_0 
+coma: a_0 b_0 
+dot: a_0 b_0 
+vector: =_0 a_0 b_0 

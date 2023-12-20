@@ -1,0 +1,10 @@
+0 1
+cport: microcontrol_19 power_40 
+display: videocard_70 
+microcontrol: cport_19 power_4 sata_51 usb_11 
+port1: port2_10 power_3 
+port2: port1_10 power_3 
+power: cport_40 microcontrol_4 port1_3 port2_3 sata_3 usb_5 videocard_15 
+sata: microcontrol_51 power_3 
+usb: microcontrol_11 power_5 
+videocard: display_70 power_15 

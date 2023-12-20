@@ -1,0 +1,9 @@
+1 0
+example1: second_0 sampletext_0 3_0 404_0 zap_0 gg_0 niceone_0 
+second: 3_2 404_12 gg_7 
+3: zap_0 
+sampletext: 
+zap: 3_0 second_0 
+gg: zap_0 second_0 
+niceone: gg_0 
+404: niceone_0 gg_0 sampletext_0 3_0 404_0 
